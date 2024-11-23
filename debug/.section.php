@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Debug";
+$arDirProperties = Array(
+
+);
+?>

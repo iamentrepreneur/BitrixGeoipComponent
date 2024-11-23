@@ -1,0 +1,6 @@
+<?
+$sSectionName = "geoip";
+$arDirProperties = Array(
+
+);
+?>
